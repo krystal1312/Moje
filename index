@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Můj první web</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Vítej na mém webu!</h1>
+    </header>
+
+    <main>
+        <p id="text">Klikni na tlačítko pro překvapení!</p>
+        <button id="btn">Klikni mě</button>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
