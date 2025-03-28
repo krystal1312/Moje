@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Můj první web</title>
+    <title>Moje úžasná stránka</title> <!-- Přidaný název webu -->
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Vítej na mém webu!</h1>
+        <h1>Moje úžasná stránka</h1> <!-- Přidán nadpis stránky -->
     </header>
 
     <main>
